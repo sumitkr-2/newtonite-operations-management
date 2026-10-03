@@ -1,0 +1,15 @@
+{
+  "name": "newtonite-work-management",
+  "version": "1.0.0",
+  "description": "Newtonite Internal Work Management System",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "db:migrate": "npm run --prefix server db:migrate",
+    "db:seed": "npm run --prefix server db:seed",
+    "dev:server": "npm run --prefix server dev",
+    "dev:client": "npm run --prefix client dev",
+    "test": "npm run --prefix server test",
+    "build": "npm run --prefix server build && npm run --prefix client build"
+  }
+}
