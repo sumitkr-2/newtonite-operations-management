@@ -946,26 +946,6 @@ Add structured logging, metrics, request correlation IDs, and tracing around the
 
 ---
 
-# 22. Final Submission Checklist
-
-Before submitting:
-
-- [x] Working source code
-- [x] Local setup instructions
-- [x] Database migration instructions
-- [x] Seed/demo data
-- [x] Engineering decisions
-- [x] Automated tests
-- [x] Known limitations
-- [x] Architecture documentation
-- [x] Critical non-CRUD behaviours
-- [x] Concurrency handling
-- [x] Authorization
-- [x] Audit/history
-- [x] Search/filtering
-- [x] Scale-aware pagination
-- [ ] Add final YouTube demonstration link
-
 ---
 
 ## Built for the Newtonite Software Engineering Challenge
@@ -973,4 +953,4 @@ Before submitting:
 The implementation intentionally prioritizes **correctness, explainability, maintainability, and deliberate engineering trade-offs** over unnecessary infrastructure or decorative complexity.
 
 
-**Demo:** `https://drive.google.com/file/d/1h_g5a87jkjcyte7TVMvA__jnQKz2KXX_/view?usp=sharing`
+**Demo:** https://drive.google.com/file/d/1h_g5a87jkjcyte7TVMvA__jnQKz2KXX_/view?usp=sharing
