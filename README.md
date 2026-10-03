@@ -10,7 +10,7 @@ Newtonite is designed around the parts of the challenge where a simple CRUD appl
 
 ## 🎥 Project Demo
 
-**YouTube walkthrough:** `ADD_YOUTUBE_LINK_HERE`
+**YouTube walkthrough:** https://youtu.be/R-nrlxun-Bo
 
 > The demo will walk through authentication, team-based authorization, work-item lifecycle, concurrent assignment, stale-update protection, idempotency, audit history, search/filtering, and the test suite.
 
