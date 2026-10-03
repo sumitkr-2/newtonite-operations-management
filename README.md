@@ -972,6 +972,5 @@ Before submitting:
 
 The implementation intentionally prioritizes **correctness, explainability, maintainability, and deliberate engineering trade-offs** over unnecessary infrastructure or decorative complexity.
 
-**Repository:** `newtonite-work-management`
 
-**Demo:** `ADD_YOUTUBE_LINK_HERE`
+**Demo:** `https://drive.google.com/file/d/1h_g5a87jkjcyte7TVMvA__jnQKz2KXX_/view?usp=sharing`
